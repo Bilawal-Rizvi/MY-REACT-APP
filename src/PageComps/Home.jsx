@@ -12,37 +12,37 @@ function Home() {
       <h1 className=" text-4xl mt-10 text-center">OWN YOUR NEW LOOK</h1>
       <div className="flex content-center flex-wrap justify-center  mt-20 gap-10 ">
         <Images
-          URL="public\images\46_d956ecb9-b464-409b-8d97-807082aa862c.webp"
+          URL="/images/46_d956ecb9-b464-409b-8d97-807082aa862c.webp"
           title="FORMALS"
         />
         <Images
-          URL="public\images\45_e2ac7bbf-dd5e-4a56-9044-b6339c35bbe2.webp"
+          URL="/images/45_e2ac7bbf-dd5e-4a56-9044-b6339c35bbe2.webp"
           title="WINTER"
         />
       </div>
       <h1 className=" text-4xl mt-10 text-center">READY TO WEAR</h1>
       <div className=" flex content-center flex-wrap justify-center  mt-20 gap-10">
         <TriImg
-          URL="public\images\180_9b99d0ac-2421-44fe-b448-2eab8e0c1a5a.jpg "
+          URL="/images/180_9b99d0ac-2421-44fe-b448-2eab8e0c1a5a.jpg "
           title="Shirts"
         />
         <TriImg
-          URL="public\images\169_3dd8b1e1-e19e-48df-ba65-99d2ae6d93e2.jpg "
+          URL="/images/169_3dd8b1e1-e19e-48df-ba65-99d2ae6d93e2.jpg "
           title="Velvets"
         />
         <TriImg
-          URL="public\images\196_58328ca8-6bb3-41e8-a711-f66511be7abe.jpg"
+          URL="/images/196_58328ca8-6bb3-41e8-a711-f66511be7abe.jpg"
           title="Winters"
         />
       </div>
       <h1 className="text-4xl mt-10 text-center">CHANTELLE COLLECTION</h1>
       <div className="flex content-center flex-wrap justify-center  mt-20 gap-10 ">
         <Images
-          URL="public\images\31_039a628f-2dfe-4b3d-a267-c48233630563.webp"
+          URL="/images/31_039a628f-2dfe-4b3d-a267-c48233630563.webp"
           title="UNSTICHED"
         />
         <Images
-          URL="public\images\45_e2ac7bbf-dd5e-4a56-9044-b6339c35bbe2.webp"
+          URL="/images/45_e2ac7bbf-dd5e-4a56-9044-b6339c35bbe2.webp"
           title="STITCHED"
         />
       </div>
