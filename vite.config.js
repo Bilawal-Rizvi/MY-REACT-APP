@@ -9,4 +9,7 @@ export default defineConfig({
   server: {
     open: true, // 👈 this line makes it auto-open in your default browser
   },
+    build: {
+    outDir: "dist"
+  }
 })
