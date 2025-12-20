@@ -1,5 +1,5 @@
 import React from "react";
-import "/src/Index.css";
+import "/src/index.css";
 function TriImg(props) {
   return (
     <>
