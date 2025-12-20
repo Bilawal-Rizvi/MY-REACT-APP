@@ -11,7 +11,7 @@ function Nav() {
           </p>
 
           <img
-            src="public\images\LOGO_PNG_V01_ca621119-9615-4843-a4c7-3cbf07d1452a.png"
+            src="/images/LOGO_PNG_V01_ca621119-9615-4843-a4c7-3cbf07d1452a.png"
             className="w-35 self-center h-max ml-40"
             alt=""
           />

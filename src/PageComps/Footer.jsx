@@ -52,11 +52,11 @@ function Footer() {
           <p>© 2025 - BAROQUE</p>
           <div className="flex gap-5">
             <img
-              src="public\images\39-395774_visa-logo-visa-classic-logo-png-transparent-png.png"
+              src="/images/39-395774_visa-logo-visa-classic-logo-png-transparent-png.png"
               width="50"
               alt=""
             />
-            <img src="public\images\Mastercard-logo.svg" width="50" alt="" />
+            <img src="/images/Mastercard-logo.svg" width="50" alt="" />
           </div>
         </div>
       </div>
